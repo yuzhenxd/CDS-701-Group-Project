@@ -1,6 +1,6 @@
-# CDS701 FreddieMac Project
+# CDS701 Group Project
 
-香港岭南大学 CDS701 Fundamentals of Computer Science 小组机器学习项目。
+香港岭南大学 CDS701 Fundamentals of Computer Sci 小组机器学习项目。
 
 **Does Macroeconomic Information Improve Mortgage Delinquency Prediction? Evidence from Freddie Mac Loan-Level Data**
 
